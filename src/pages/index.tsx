@@ -42,9 +42,9 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Aiden.gg</title>
-        <meta name="description" content="Aiden's (aka SKRRRTT) personal site" />
-        <meta property="og:image" content="https://r2.e-z.host/2082d908-7c65-4fc3-b02a-5f50f9141543/lbo1x6wn.png" />
+        <title>Eslewixx</title>
+        <meta name="description" content="Eslewixx'in (aka ASH'Kweezy) sitesi" />
+        <meta property="og:image" content="https://i.hizliresim.com/9yvf0l8.jpg" />
         <meta property='theme-color' content='#17171a' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
