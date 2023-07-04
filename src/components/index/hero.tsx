@@ -14,7 +14,7 @@ export default function Hero({ pageLoad, titleColor }: { pageLoad: boolean, titl
                             <span className='text-gray-400 sm:text-base text-sm sm:pl-1 pl-0 italic sm:inline flex'> aka ASHKweezy</span>
                         </h1>
                         <motion.p initial={{ transform: 'translateX(-20px)', opacity: 0 }} whileInView={{ transform: 'translateX(0)', opacity: 100 }} transition={{ duration: 1, delay: 0.1, ease: [0.39, 0.21, 0.12, 0.96], }} viewport={{ amount: 0.2, once: true }} className={`text-white font-semibold sm:text-2xl text-xl font-kanit`}>
-                            Ben 14 yaşımdayım. Türkiye'de yaşıyorum ve Frontend kodlaması yapıyorum.
+                            Ben 14 yaşımdayım. Türkiyede yaşıyorum ve Frontend kodlaması yapıyorum.
                         </motion.p>
                         <ul className='flex flex-row flex-wrap w-fit gap-2'>
                             <Socialicon
