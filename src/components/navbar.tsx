@@ -11,12 +11,12 @@ export default function Navbar({ clickScroll, clickScroll2, pageLoad }: { clickS
                     <ul className='flex flex-row gap-x-2'>
                         <li>
                             <button className='text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md' onClick={clickScroll}>
-                                About Me
+                                Hakkımda
                             </button>
                         </li>
                         <li>
                             <button className='text-white font-kanit text-lg p-2 hover:bg-slate-800 duration-300 rounded-md' onClick={clickScroll2}>
-                                Projects
+                                Projelerim
                             </button>
                         </li>
                     </ul>
